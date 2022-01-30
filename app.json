@@ -1,9 +1,9 @@
 {
-    "name": "Kaalmusic",
-    "logo": "https://telegra.ph/file/b911090d70bf276085778.jpg",
+    "name": "Professor Music",
+    "logo": "https://te.legra.ph/file/6d2226149b1f195f3ff84.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/garwmishra/kaal-music-bot",
+    "repository": "https://github.com/Ajsites2324/kaal-music-bot",
     "stack": "container",
     "env": {
         "API_ID": {
